@@ -1,6 +1,7 @@
 # Mina vänner-boken
 # Ditt namn och klass
 # Dagens datum
+# LÄS README FÖR UPPGIFTEN
 
 class Friend:
     def __init__(self) -> None:
@@ -21,4 +22,4 @@ def main():
     friend_book = []
     
 if __name__ == "__main__":
-    pass
+    main()
