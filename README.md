@@ -14,7 +14,6 @@ Exempel på hur ett uppslag kan se ut har du här nedan:
 
 ![image](https://github.com/user-attachments/assets/326736a8-1693-483d-86db-14ffa48647cd)
 
-
 Uppgiften ska ej förväxlas med komikern Robin Berglunds podd "Mina vänner-boken". Den är för övrigt rätt kul, om du behöver lyssningstips. Finns där poddar finns. Uppdaterat 2024-09-03: numera nedlagd, men finns mycket kul i den podden!
 
 ### Klasser
