@@ -8,9 +8,17 @@ class Friend:
     
     def __str__(self) -> str:
         return ""
+    
+def create_friend(friend_book: list):
+    """creates a new Friend-object and adds it to the list provided as argument
+
+    Args:
+        friend_book (list): list of Friend-objects that will be appended to
+    """
+    pass
 
 def main():
-    pass
+    friend_book = []
     
 if __name__ == "__main__":
     pass
