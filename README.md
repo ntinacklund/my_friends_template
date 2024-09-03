@@ -8,25 +8,27 @@ En Mina-vänner bok är en bok där du samlar information om dina vänner. I en 
 
 Exempel på hur ett uppslag kan se ut har du här nedan:
 
-- <https://media.skolmagi.nu/b9919dbc018d422d8e1d46be94fd25da%3Askolmagi/2020/08/Mina-va%CC%88nner-2.jpg>
-- <https://starkmamma.nu/wp-content/uploads/2015/05/minav%C3%A4nnerbok.png>
-- <https://quickbutik.imgix.net/6092O/products/mina-vanner4.png>
-- <https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_800/w_400/dpr_2/v1595602295/39-7024755f1af550e4275.jpg>
+![image](https://github.com/user-attachments/assets/676f7c1a-c968-496c-8213-b81a5a90a84f)
 
-Uppgiften ska ej förväxlas med komikern Robin Berglunds podd "Mina vänner-boken". Den är för övrigt rätt kul, om du behöver lyssningstips. Finns där poddar finns.
+![image](https://github.com/user-attachments/assets/10d35164-2ae6-4206-97e3-ed48c29f709a)
+
+![image](https://github.com/user-attachments/assets/326736a8-1693-483d-86db-14ffa48647cd)
+
+
+Uppgiften ska ej förväxlas med komikern Robin Berglunds podd "Mina vänner-boken". Den är för övrigt rätt kul, om du behöver lyssningstips. Finns där poddar finns. Uppdaterat 2024-09-03: numera nedlagd, men finns mycket kul i den podden!
 
 ### Klasser
 
-För denna uppgift behöver du ha koll på innehållet i genomgången från presentation 3 om klasser, konstruktorn och strängmetoden. Denna finns under "Genomgångar" på classroom.
+För denna uppgift behöver du ha koll på innehållet i genomgången om klasser, konstruktorn och strängmetoden. Denna finns under "Genomgångar" på classroom.
 
 ## Uppgiften
 
-Fyll i klassen "Friend" med relevanta attribut i konstruktorn.
+Fyll i klassen "Friend" med minst fem relevanta attribut i konstruktorn.
 
 Fyll i strängmetoden med någon vettig text som representerar objektet när det ska skrivas ut på skärmen.
 
-Skapa några vän-objekt i main-funktionen och spara dessa i en lista. Vännerna får gärna vara personer du faktiskt känner, för att göra uppgiften lite mer genuin. Gå sedan igenom listan och printa dessa vänner.
+Skapa några vän-objekt i main-funktionen och spara dessa i listan my_friends. Vännerna får gärna vara personer du faktiskt känner, för att göra uppgiften lite mer genuin. Gå sedan igenom listan och printa dessa vänner.
 
-Skapa sedan en funktion där användaren kan föra in nya vänner i din mina-vänner-bok.
+Fyll sedan i funktionen create_friend, där användaren kan föra in nya vänner i din mina-vänner-bok.
 
 Låt alltså användaren i slutändan mötas av en meny där de kan välja att printa alla vänner, lägga till ny vän eller avsluta programmet. Vännerna som läggs till under körning behöver inte sparas mellan körningar, det lär vi oss senare i kursen.
